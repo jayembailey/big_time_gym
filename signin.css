@@ -1,0 +1,44 @@
+body {
+    font-family:Oswald;
+}
+
+.button {
+    background-color:rgb(237, 237, 237);
+    color: red;
+    transition-duration: 0.2s;
+    box-shadow: 1px 1px 4px 2px rgba(0,0,0,0.4)
+}
+
+.button:hover {
+    background-color: red;
+    color: white;
+    box-shadow: 1px 1px 4px 4px rgba(255, 255, 255, 0.6)
+}
+
+input:focus {
+    border: 2px solid green;
+    
+}
+
+.btn {
+    background-color:red;
+    color: white;
+    transition-duration: 0.2s;
+    box-shadow: 1px 1px 4px 2px rgba(0,0,0,0.4);
+}
+
+.btn:hover {
+    background-color:rgb(237, 237, 237);
+    color: red;
+    box-shadow: 1px 1px 4px 3px rgba(0, 0, 0, 0.4)
+}
+
+a {
+    text-decoration: none;
+    color: white
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+}

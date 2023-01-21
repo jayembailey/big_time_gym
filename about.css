@@ -1,0 +1,19 @@
+.socialf {
+    color: white;
+}
+
+.sociali {
+    color: white;
+}
+
+.socialy {
+    color: white;
+}
+
+a.socialy:hover {
+    color:red;
+}
+
+a.sociali:hover {
+    color:orange;
+}
